@@ -1,7 +1,6 @@
-### Hi there 👋
 
 <!--
-**Linger-On/Linger-On** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**linger0310/linger0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linger-On's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linger_on)](https://wakatime.com/@linger_on)
+[![linger0310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linger0310)](https://wakatime.com/@linger0310)
