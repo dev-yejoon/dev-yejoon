@@ -88,3 +88,9 @@ Here are some ideas to get you started:
 - 🌱 I'm interested in `Full Stack Developer`.
 - ✏️ My CS Blog : <a href="https://velog.io/@linger0310">![Velog](https://img.shields.io/badge/Velog-000000.svg?style=flat-square&logo=velog&logoColor=white)</a>
 - 🌎 Contact me : goodbye1202@kakao.com
+
+<br><br>
+
+<div align='center'>
+  <span><bold>Copyright 2021. Junhan0037 all rights reserved.</bold></span>
+</div>
