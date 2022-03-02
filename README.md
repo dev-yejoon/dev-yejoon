@@ -44,10 +44,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-3178C6.svg?style=flat-square&logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
-<br><br>
-[![linger0310's github stats](https://github-readme-stats.vercel.app/api?username=linger0310&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-
 <!-- <a href="https://solved.ac/profile/linger0310">
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=linger0310">
 </a> -->
@@ -83,9 +79,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
 [![linger0310's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=linger0310)](https://wakatime.com/@linger0310)
 
+[![linger0310's github stats](https://github-readme-stats.vercel.app/api?username=linger0310&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I'm interested in `Full Stack Developer`.
 - ✏️ My CS Blog : <a href="https://velog.io/@linger0310">![Velog](https://img.shields.io/badge/Velog-000000.svg?style=flat-square&logo=velog&logoColor=white)</a>
