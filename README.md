@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 [![linger0310's github stats](https://github-readme-stats.vercel.app/api?username=linger0310&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I'm interested in `Full Stack Developer`.
-- ✏️ My CS Blog : <a href="https://velog.io/@linger0310">![Velog](https://img.shields.io/badge/Velog-000000.svg?style=flat-square&logo=velog&logoColor=white)</a>
+- ✏️ My CS Blog : 🚧공사 중🚧<!-- <a href="https://velog.io/@linger0310">![Velog](https://img.shields.io/badge/Velog-000000.svg?style=flat-square&logo=velog&logoColor=white)</a> -->
 - 🌎 Contact me : goodbye1202@kakao.com
 
 <br><br>
